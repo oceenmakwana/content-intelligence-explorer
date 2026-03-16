@@ -1,0 +1,61 @@
+title_id,title,type,release_year,primary_genre,region,views_7d,views_28d,engagement_score,retention_28d
+Red_Horizon_2023,Red Horizon,Movie,2023,Action,US,86461,186806,82.8,0.55
+Red_Horizon_2023,Red Horizon,Movie,2023,Action,IN,85333,130115,89.5,0.47
+Red_Horizon_2023,Red Horizon,Movie,2023,Action,EU,63274,137680,58.4,0.44
+Red_Horizon_2023,Red Horizon,Movie,2023,Action,LATAM,68085,105309,67.3,0.17
+City_of_Echoes_2022,City of Echoes,Movie,2022,Drama,US,78555,128280,64.3,0.4
+City_of_Echoes_2022,City of Echoes,Movie,2022,Drama,IN,82438,139576,86.7,0.34
+City_of_Echoes_2022,City of Echoes,Movie,2022,Drama,EU,63784,115539,58.2,0.38
+City_of_Echoes_2022,City of Echoes,Movie,2022,Drama,LATAM,78466,120557,67.5,0.34
+Laugh_Track_2021,Laugh Track,TV Show,2021,Comedy,US,74905,131244,69.8,0.23
+Laugh_Track_2021,Laugh Track,TV Show,2021,Comedy,IN,55897,118919,63.8,0.22
+Laugh_Track_2021,Laugh Track,TV Show,2021,Comedy,EU,56838,103221,47.3,0.35
+Laugh_Track_2021,Laugh Track,TV Show,2021,Comedy,LATAM,77808,157181,77.8,0.35
+Deep_Signal_2024,Deep Signal,Movie,2024,Sci-Fi,US,74827,116490,69.0,0.35
+Deep_Signal_2024,Deep Signal,Movie,2024,Sci-Fi,IN,106631,172432,87.4,0.49
+Deep_Signal_2024,Deep Signal,Movie,2024,Sci-Fi,EU,81985,150373,77.2,0.34
+Deep_Signal_2024,Deep Signal,Movie,2024,Sci-Fi,LATAM,66596,145814,59.0,0.44
+Night_Shift_Files_2020,Night Shift Files,TV Show,2020,Crime,US,45012,92381,58.3,0.44
+Night_Shift_Files_2020,Night Shift Files,TV Show,2020,Crime,IN,85579,124880,70.3,0.32
+Night_Shift_Files_2020,Night Shift Files,TV Show,2020,Crime,EU,74046,140586,65.5,0.33
+Night_Shift_Files_2020,Night Shift Files,TV Show,2020,Crime,LATAM,51067,84779,60.5,0.49
+Broken_Summer_2019,Broken Summer,Movie,2019,Romance,US,64623,114885,66.0,0.26
+Broken_Summer_2019,Broken Summer,Movie,2019,Romance,IN,69742,128954,66.2,0.47
+Broken_Summer_2019,Broken Summer,Movie,2019,Romance,EU,50497,87968,54.4,0.29
+Broken_Summer_2019,Broken Summer,Movie,2019,Romance,LATAM,41939,75777,46.2,0.35
+The_Last_Protocol_2024,The Last Protocol,Movie,2024,Action,US,95758,191942,77.4,0.33
+The_Last_Protocol_2024,The Last Protocol,Movie,2024,Action,IN,146384,299576,95.0,0.42
+The_Last_Protocol_2024,The Last Protocol,Movie,2024,Action,EU,113657,176083,95.0,0.49
+The_Last_Protocol_2024,The Last Protocol,Movie,2024,Action,LATAM,107880,228370,86.3,0.35
+Kitchen_Kingdom_2022,Kitchen Kingdom,TV Show,2022,Reality TV,US,65267,113675,65.9,0.38
+Kitchen_Kingdom_2022,Kitchen Kingdom,TV Show,2022,Reality TV,IN,63164,114238,50.8,0.31
+Kitchen_Kingdom_2022,Kitchen Kingdom,TV Show,2022,Reality TV,EU,57199,95527,56.8,0.39
+Kitchen_Kingdom_2022,Kitchen Kingdom,TV Show,2022,Reality TV,LATAM,70991,139314,69.4,0.34
+Invisible_Orbit_2021,Invisible Orbit,Movie,2021,Documentaries,US,77095,123462,56.0,0.3
+Invisible_Orbit_2021,Invisible Orbit,Movie,2021,Documentaries,IN,60442,86403,60.8,0.51
+Invisible_Orbit_2021,Invisible Orbit,Movie,2021,Documentaries,EU,41903,68006,46.4,0.32
+Invisible_Orbit_2021,Invisible Orbit,Movie,2021,Documentaries,LATAM,42742,76575,57.6,0.36
+Shadow_District_2023,Shadow District,TV Show,2023,Crime,US,71619,141990,79.0,0.21
+Shadow_District_2023,Shadow District,TV Show,2023,Crime,IN,105581,193068,82.5,0.29
+Shadow_District_2023,Shadow District,TV Show,2023,Crime,EU,58500,109554,46.6,0.36
+Shadow_District_2023,Shadow District,TV Show,2023,Crime,LATAM,83163,128029,68.1,0.5
+Golden_Hour_2020,Golden Hour,Movie,2020,Drama,US,84808,128062,70.3,0.33
+Golden_Hour_2020,Golden Hour,Movie,2020,Drama,IN,96972,203823,91.2,0.24
+Golden_Hour_2020,Golden Hour,Movie,2020,Drama,EU,75990,140139,57.8,0.39
+Golden_Hour_2020,Golden Hour,Movie,2020,Drama,LATAM,45714,96812,52.6,0.45
+Fast_Lane_Stories_2024,Fast Lane Stories,TV Show,2024,Action,US,91425,153537,85.1,0.42
+Fast_Lane_Stories_2024,Fast Lane Stories,TV Show,2024,Action,IN,143409,290246,95.0,0.41
+Fast_Lane_Stories_2024,Fast Lane Stories,TV Show,2024,Action,EU,76621,162348,73.4,0.31
+Fast_Lane_Stories_2024,Fast Lane Stories,TV Show,2024,Action,LATAM,64032,97883,77.6,0.44
+Dreamline_2022,Dreamline,Movie,2022,Comedy,US,80856,127705,66.1,0.41
+Dreamline_2022,Dreamline,Movie,2022,Comedy,IN,76287,152361,78.6,0.37
+Dreamline_2022,Dreamline,Movie,2022,Comedy,EU,77052,142904,69.4,0.26
+Dreamline_2022,Dreamline,Movie,2022,Comedy,LATAM,57294,91396,57.6,0.36
+Cold_Case_Harbor_2021,Cold Case Harbor,TV Show,2021,Mystery,US,87701,167062,78.6,0.5
+Cold_Case_Harbor_2021,Cold Case Harbor,TV Show,2021,Mystery,IN,85417,153240,82.0,0.26
+Cold_Case_Harbor_2021,Cold Case Harbor,TV Show,2021,Mystery,EU,58577,83148,50.5,0.4
+Cold_Case_Harbor_2021,Cold Case Harbor,TV Show,2021,Mystery,LATAM,80787,174754,72.1,0.42
+Parallel_Hearts_2023,Parallel Hearts,Movie,2023,Romance,US,55465,118842,60.8,0.32
+Parallel_Hearts_2023,Parallel Hearts,Movie,2023,Romance,IN,114946,239364,89.9,0.18
+Parallel_Hearts_2023,Parallel Hearts,Movie,2023,Romance,EU,89941,148721,81.7,0.21
+Parallel_Hearts_2023,Parallel Hearts,Movie,2023,Romance,LATAM,88797,173761,72.1,0.34
