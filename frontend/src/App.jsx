@@ -23,7 +23,8 @@ function StatCard({ label, value }) {
         border: "1px solid #e5e7eb",
         borderRadius: "12px",
         padding: "16px",
-        background: "#fff",
+        background: "#ffffff",
+        boxShadow: "0 2px 8px rgba(0,0,0,0.05)",
       }}
     >
       <div style={{ fontSize: "13px", color: "#6b7280", marginBottom: "6px" }}>
@@ -104,13 +105,14 @@ export default function App() {
         margin: "0 auto",
         padding: "24px",
         fontFamily: "Arial, sans-serif",
-        background: "#f9fafb",
+        background: "#ffffff",
         minHeight: "100vh",
       }}
     >
       <div style={{ marginBottom: "20px" }}>
-        <h1 style={{ marginBottom: "8px" }}>Content Intelligence Explorer</h1>
-        <p style={{ color: "#4b5563", marginTop: 0 }}>
+        <h1 style={{ marginBottom: "8px", fontWeight: 800, color: "#111827" }}>Content Intelligence Explorer</h1>
+        <p style={{ color: "#6b7280",
+          fontSize: "14px", marginTop: 0 }}>
           Full-stack interactive dashboard for exploring simulated content
           engagement trends across regions, genres, and titles.
         </p>
@@ -122,7 +124,7 @@ export default function App() {
           justifyContent: "space-between",
           gap: "12px",
           flexWrap: "wrap",
-          marginBottom: "20px",
+          marginBottom: "28px",
         }}
       >
         <div style={{ display: "flex", gap: "10px", flexWrap: "wrap" }}>
@@ -190,6 +192,7 @@ export default function App() {
                     <Line
                       type="monotone"
                       dataKey="engagement"
+                      stroke="#111827"
                       strokeWidth={3}
                       dot={false}
                     />

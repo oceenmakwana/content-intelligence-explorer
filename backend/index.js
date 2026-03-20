@@ -6,7 +6,7 @@ const csv = require("csvtojson");
 const app = express();
 app.use(cors());
 
-const DATA_PATH = path.join(__dirname, "..", "data-processing", "output", "cleaned_data.csv");
+const DATA_PATH = path.join(__dirname, "..", "data-processing", "output", "kaggle_cleaned.csv");
 
 let DATA = [];
 
