@@ -13,3 +13,6 @@ data/*.csv
 
 # OS
 .DS_Store
+
+# Data outputs
+data-processing/output/*.csv
